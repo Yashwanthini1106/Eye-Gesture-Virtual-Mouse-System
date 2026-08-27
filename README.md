@@ -1,0 +1,2 @@
+# Eye-Controlled-virtual-mouse-for-physically-challenged-user-
+Eye Controlled Virtual Mouse is an assistive technology project for physically challenged users. It uses a webcam and eye-tracking technology to control the mouse cursor through eye movements. Blinking is used for clicking actions. Developed using Python and OpenCV, it provides a simple, touch-free and accessible way to operate a computer.
