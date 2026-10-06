@@ -1,7 +1,7 @@
 
-# 👁️🖱️Virtual Mouse System using Eye Gestures
+# 👁️🖱️Eye Gesture Virtual Mouse System
 🚀 Project Overview: 
-                 This project implements a Virtual Mouse system using Eye Gestures powered by computer vision and facial landmark detection. By tracking eye movements and blink patterns through a webcam, users can control their computer’s mouse without any physical hardware. It demonstrates how real-time vision processing can enable hands-free human-computer interaction and improve accessibility.
+                 This project implements a Eye Gesture Virtual Mouse System powered by computer vision and facial landmark detection. By tracking eye movements and blink patterns through a webcam, users can control their computer’s mouse without any physical hardware. It demonstrates how real-time vision processing can enable hands-free human-computer interaction and improve accessibility.
 
 # ✨Key Features:
 - Eye movement tracking for cursor control
